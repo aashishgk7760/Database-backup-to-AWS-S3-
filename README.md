@@ -1,3 +1,5 @@
 # Database-backup-to-AWS-S3-
 
-In this i have created
+I have automated the Mysql database backup to AWS S3 and i have used Jenkins to automate this task. 
+
+
